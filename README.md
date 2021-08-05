@@ -1,5 +1,5 @@
 # kitbaco
 Part performed: Change menu opacity when scroll
 
-Quer ver funcionando?
+Wanna see it working?
 https://shoplabrenfa.000webhostapp.com/kitbaco/index.html
